@@ -12,6 +12,6 @@
 ; ## This section replaces one dash between spaces " - " with an em dash " — " ##
 ; ? makes it so the hotstring will activate even in the middle of a word
 ; the ` tells the hotstring to include the space after the em dash
-:*?: - :: — `
+; TEMPORARILY COMMENTED OUT :*?: - :: — `
 
 ; Icon made by Google from www.flaticon.com

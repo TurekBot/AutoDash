@@ -1,0 +1,1 @@
+RunWait "C:\Program Files\AutoHotkey\Compiler\Ahk2Exe.exe" /in "C:\Users\Turek\Code\AutoDash\AutoDash.ahk" /out "C:\Users\Turek\Code\AutoDash\AutoDash.exe" /icon "C:\Users\Turek\Code\AutoDash\appIcon.ico" /bin "C:\Program Files\AutoHotkey\Compiler\Unicode 32-bit.bin" /compress 0
