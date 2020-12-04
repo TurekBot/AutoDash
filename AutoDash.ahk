@@ -6,12 +6,12 @@
 ; ## This section replaces any two dashes "--" typed consecutively with an em dash "—" ##
 ; * makes it so the hotstring doesn't require an ending character
 ; ? makes it so the hotstring will activate even in the middle of a word
-:*?:--::—
+; TEMPORARILY COMMENTED OUT :*?:--::—
 
 
 ; ## This section replaces one dash between spaces " - " with an em dash " — " ##
 ; ? makes it so the hotstring will activate even in the middle of a word
 ; the ` tells the hotstring to include the space after the em dash
-; TEMPORARILY COMMENTED OUT :*?: - :: — `
+:*?: - :: — `
 
 ; Icon made by Google from www.flaticon.com
